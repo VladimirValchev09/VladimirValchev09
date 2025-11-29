@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VladimirValchev09
-- 👀 I’m interested in sports,coding and Learning new things
+- 👀 I’m interested in sports,coding and learning new things
 - 🌱 I’m currently learning coding in SoftUni and coding in PPMG GEO MILEV, STARA ZAGORA
-- I speak fluently English and I also have Cambridge Certificate B2.
-- 📫 Instagram: _whoisvlado         Tik Tok:_whoisvlado
-
+- 📫 Instagram: _whoisvlado         Tik Tok:_whoisvlado Facebook: Vladimir VL
+- I speak English at a very high level and I have a Cambridge certificate at level B2
+- In my free time, I play football; I am also the captain of our under-17 team, and in my free time, I am an assistant football coach.
 System.out.println("Eat, sleep, code, repeat");
